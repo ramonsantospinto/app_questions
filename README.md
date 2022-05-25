@@ -1,6 +1,5 @@
 # App questions
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg
 
 My first project developed with Dart & Flutter
 
