@@ -1,7 +1,5 @@
 # App questions
 
-• App Questions
-
 • Meu primeiro projeto desenvolvido com o flutter
 
 • Status do Projeto: 40%
