@@ -1,11 +1,17 @@
 # App questions
 
 • App Questions;
+
 • Meu primeiro projeto desenvolvido com o flutter;
+
 • Status do Projeto: 40%
+
 • Funcionalidades: App de perguntas;
+
 • Tecnologias utilizadas: Dart & Flutter
+
 • Pessoas Contribuidoras: Ramon dos Santos Pinto
+
 • Pessoas Desenvolvedoras do Projeto: Ramon dos Santos Pinto
 
 
