@@ -1,12 +1,12 @@
 # App questions
 
-• App Questions;
+• App Questions
 
-• Meu primeiro projeto desenvolvido com o flutter;
+• Meu primeiro projeto desenvolvido com o flutter
 
 • Status do Projeto: 40%
 
-• Funcionalidades: App de perguntas;
+• Funcionalidades: App de perguntas
 
 • Tecnologias utilizadas: Dart & Flutter
 
