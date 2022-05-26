@@ -12,4 +12,4 @@ My first project developed with Dart & Flutter
 
 ![image](https://user-images.githubusercontent.com/89648821/170499233-cd82342b-8868-42b8-980f-8cf3f7c091ce.png)
 
-![image](https://user-images.githubusercontent.com/89648821/170499965-f4e815a7-d9ed-4c0e-894f-f871ed619b55.png)
+![image](https://user-images.githubusercontent.com/89648821/170500337-df544365-7f67-41bf-859a-228cbc1c81a9.png)
