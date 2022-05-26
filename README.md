@@ -4,8 +4,13 @@
 
 My first project developed with Dart & Flutter
 
-40% Loading...
 
 
 
-![image](https://user-images.githubusercontent.com/89648821/170385675-53681d28-85a2-48c3-b847-b7bb51923ae0.png)
+
+![image](https://user-images.githubusercontent.com/89648821/170499174-1829adce-6135-4509-b133-e9b1d0ce3335.png)
+
+![image](https://user-images.githubusercontent.com/89648821/170499233-cd82342b-8868-42b8-980f-8cf3f7c091ce.png)
+
+
+![image](https://user-images.githubusercontent.com/89648821/170499289-0c2f7c30-9fa7-4cc5-a425-4ae976c03f27.png)
