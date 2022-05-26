@@ -1,12 +1,14 @@
+<h1>
 <p align="center">
-<h1>App questions</h1> 
+App questions</h1> 
 </p>
+</h1>
 <p align="center">
 <img align="center" alt="Ramon-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> <img align="center" alt="Ramon-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </p>
 
 <p align="center">
-**My first project developed with Dart & Flutter**
+My first project developed with Dart & Flutter
 </p>
 
 
