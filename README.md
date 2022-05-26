@@ -9,7 +9,7 @@ App questions</h1>
 </p>
 <h2>
 <p align="center">
-1 ♦ My first project developed with Dart & Flutter
+My first project developed with Dart & Flutter
 </p>
 </h2>
 
