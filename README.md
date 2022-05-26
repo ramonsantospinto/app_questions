@@ -19,5 +19,5 @@ My first project developed with Dart & Flutter
 
 
 <p align="center">
-  <img width="200" src="[https://user-images.githubusercontent.com/89648821/170500618-18a422f7-7edd-4f81-bf75-87cdeeef29b8.png)" alt="Material Bread logo">
+  <img width="200" src="https://user-images.githubusercontent.com/89648821/170500618-18a422f7-7edd-4f81-bf75-87cdeeef29b8.png" alt="Material Bread logo">
 </p>
