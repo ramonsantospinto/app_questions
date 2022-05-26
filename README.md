@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-My first project developed with Dart & Flutter
+**My first project developed with Dart & Flutter**
 </p>
 
 
